@@ -58,4 +58,4 @@ def delete(key):
             print("key is successfully deleted")
 
 #This is the source code for Data Store using Key-Value
-#It supports basic CRD operation in well defined manner.
+#It supports basic CRD operation (create, read and delete) in well defined manner.
